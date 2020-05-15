@@ -1,0 +1,2 @@
+web: bundler exec iodine -p $PORT -t $RAILS_MAX_THREADS -w $WEB_CONCURRENCY
+cable: bundler exec iodine -p $ACTIONCABLE_PORT -t $RAILS_MAX_THREADS -w $WEB_CONCURRENCY cable/config.ru

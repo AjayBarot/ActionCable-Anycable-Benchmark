@@ -1,0 +1,188 @@
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:30:06 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:30:28 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"
+[21/Dec/2018:12:31:37 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:31:37 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:31:38 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:31:38 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:31:38 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:31:38 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:31:38 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:31:38 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:31:38 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"
+[21/Dec/2018:12:31:38 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:32:12 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"
+[21/Dec/2018:12:32:32 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:32:32 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:32:33 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:32:33 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:32:33 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:32:33 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:32:33 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:32:33 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:32:33 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:32:33 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"
+[21/Dec/2018:12:32:53 +0100] access to /es/images/graphes-Errors-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Errors-rate_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"
+[21/Dec/2018:12:33:14 +0100] access to /es/images/graphes-Errors-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Errors-rate_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-Errors-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Errors-rate_tn.png"
+[21/Dec/2018:12:33:36 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-Transactions-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-mean_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-Perfs-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-mean_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-Users-simultaneous_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users-simultaneous_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-cpu-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-cpu-mean_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-Perfs-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Perfs-rate_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-Users_Arrival-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Users_Arrival-rate_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-Transactions-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Transactions-rate_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-Size-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Size-rate_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-Errors-rate_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-Errors-rate_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-freemem-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-freemem-mean_tn.png"
+[21/Dec/2018:12:33:54 +0100] access to /es/images/graphes-load-mean_tn.png failed for 127.0.0.1, reason: 
+"mod_esi: Client not authorized to evaluate: images/graphes-load-mean_tn.png"

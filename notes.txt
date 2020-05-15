@@ -1,0 +1,26 @@
+```bash
+RAILS_ENV=production bundle exec rails assets:precompile
+
+# Start Rails using ActionCable
+foreman start -e .env.production,.env.actioncable -f Procfile.actioncable
+
+# Start Rails using Anycable
+foreman start -e .env.production,.env.anycable -f Procfile.anycable
+
+# Start Rails using Iodine
+foreman start -e .env.production,.env.actioncable_iodine -f Procfile.actioncable_iodine
+
+# to start tsung
+tsung -f tsung.xml -k start
+
+cat /etc/sysctl.conf
+
+net.ipv4.tcp_tw_reuse = 1
+net.ipv4.tcp_tw_recycle = 1
+net.ipv4.ip_local_port_range = 1024 65000
+fs.file-max = 65000
+
+cat /etc/security/limits.conf
+
+*    soft nofile 1048576
+*    hard nofile 1048576

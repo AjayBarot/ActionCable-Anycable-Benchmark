@@ -1,0 +1,3 @@
+web: rails server
+anycable: bundle exec anycable
+anycable-go: anycable-go
