@@ -1,0 +1,421 @@
+# stats: dump at 1589521765
+stats: users 4334 4334
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 16.594589507726347 0 16.594589507726347 16.594589507726347 0 0
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 1.98828125 0 1.98828125 1.98828125 0 0
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 9585.984375 0 9585.984375 9585.984375 0 0
+stats: users_count 4334 4334
+stats: finish_users_count 0 0
+stats: request 2368 737.9995434966231 839.9844077895901 4440.12 1.662 0 0
+stats: connect 2551 440.097617012936 738.653269753358 5610.852 0.403 0 0
+stats: page 2368 737.9995434966231 839.9844077895901 4440.12 1.662 0 0
+stats: error_send_einval 14 14
+stats: async_unknown_data_rcv 5250 5250
+stats: size_rcv 453367 453367
+stats: size_sent 430688 430688
+stats: connected 2424 2424
+stats: error_connect_econnreset 197 197
+stats: error_connection_closed 33 33
+stats: websocket_succ 2277 2277
+# stats: dump at 1589521775
+stats: users 9210 9210
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 79.63654468508837 0.0 79.63654468508837 16.594589507726347 16.594589507726347 1
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 2.2890625 0.0 2.2890625 1.98828125 1.98828125 1
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 9435.37109375 0.0 9585.984375 9435.37109375 9585.984375 1
+stats: users_count 4876 9210
+stats: finish_users_count 0 0
+stats: connect 1955 1969.6740726342666 2101.3234991464237 9912.166 0.403 440.097617012936 2551
+stats: page 1865 2684.102769973185 2059.468645060503 11791.478 1.662 737.9995434966231 2368
+stats: error_send_einval 11 25
+stats: request 1865 2684.102769973185 2059.468645060503 11791.478 1.662 737.9995434966231 2368
+stats: async_unknown_data_rcv 11324 16574
+stats: size_rcv 569221 1022588
+stats: size_sent 329380 760068
+stats: connected 1281 3705
+stats: error_connect_econnreset 400 597
+stats: error_connection_closed 29 62
+stats: websocket_succ 1229 3506
+# stats: dump at 1589521785
+stats: users 14097 14097
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 81.94721115537848 0.0 81.94721115537848 16.594589507726347 48.11556709640736 2
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 2.46484375 0.0 2.46484375 1.98828125 2.138671875 2
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 9300.859375 0.0 9585.984375 9300.859375 9510.677734375 2
+stats: users_count 4887 14097
+stats: finish_users_count 0 0
+stats: connect 1653 3062.195303690268 3993.1586654663333 17938.672 0.403 1103.7287689746984 4506
+stats: page 1564 4132.398189897698 3867.8377385887025 20251.459 1.662 1595.4251322938799 4233
+stats: error_send_einval 21 46
+stats: request 1564 4132.398189897698 3867.8377385887025 20251.459 1.662 1595.4251322938799 4233
+stats: async_unknown_data_rcv 14012 30586
+stats: size_rcv 616814 1639402
+stats: size_sent 276060 1036128
+stats: connected 802 4507
+stats: error_connect_econnreset 190 787
+stats: error_connection_closed 27 89
+stats: websocket_succ 748 4254
+# stats: dump at 1589521795
+stats: users 18159 18159
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 85.85657370517929 0.0 85.85657370517929 16.594589507726347 59.39278178273107 3
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 2.71484375 0.0 2.71484375 1.98828125 2.2473958333333335 3
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 9224.2109375 0.0 9585.984375 9224.2109375 9440.73828125 3
+stats: users_count 4062 18159
+stats: finish_users_count 0 0
+stats: request 1511 5692.033618795493 5172.7580379920855 20796.327 1.662 2279.8870715887515 5797
+stats: connect 1534 4180.133812255536 5607.142677466553 34492.809 0.403 1629.3571472641668 6159
+stats: page 1511 5692.033618795493 5172.7580379920855 20796.327 1.662 2279.8870715887515 5797
+stats: error_send_einval 16 62
+stats: async_unknown_data_rcv 14977 45563
+stats: size_rcv 645790 2285192
+stats: size_sent 258000 1294128
+stats: connected 639 5146
+stats: error_connect_econnreset 282 1069
+stats: error_connection_closed 18 107
+stats: websocket_succ 640 4894
+# stats: dump at 1589521805
+stats: users 18969 18985
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 88.72011952191235 0.0 88.72011952191235 16.594589507726347 66.00872976334313 4
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 3.59375 0.0 3.59375 1.98828125 2.3642578125 4
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 9070.31640625 0.0 9585.984375 9070.31640625 9386.6064453125 4
+stats: session 1087 187.90808279668798 44.10062713690171 339.02 104.272 0 0
+stats: users_count 1897 20056
+stats: finish_users_count 1087 1087
+stats: request 303 7513.960458745875 8957.76302590428 44150.326 1.662 2985.3815205254487 7308
+stats: connect 317 6001.482656151414 9234.722017713922 39765.455 0.403 2137.9872530872217 7693
+stats: page 303 7513.960458745875 8957.76302590428 44150.326 1.662 2985.3815205254487 7308
+stats: error_send_einval 0 62
+stats: error_connect_eaddrnotavail 4261 4261
+stats: async_unknown_data_rcv 5098 50661
+stats: size_rcv 208424 2493616
+stats: size_sent 54180 1348308
+stats: connected 132 5278
+stats: error_connect_econnreset 3 1072
+stats: error_connection_closed 2 109
+stats: websocket_succ 122 5016
+stats: error_abort_max_conn_retries 1047 1047
+# stats: dump at 1589521815
+stats: users 18984 18994
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 75.49141577506843 0.0 88.72011952191235 16.594589507726347 70.55100771505697 5
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 3.66015625 0.0 3.66015625 1.98828125 2.61015625 5
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 9076.0234375 0.0 9585.984375 9070.31640625 9323.3484375 5
+stats: session 958 200.33835281837142 123.83365028449076 1120.222 94.404 187.90808279668798 1087
+stats: users_count 973 21029
+stats: finish_users_count 958 2045
+stats: request 136 23793.436933823545 11766.644732806659 50141.768 1.662 3165.6678716331603 7611
+stats: connect 1833 20921.938112929587 9876.803760949373 51049.706 0.403 2290.8871335830204 8010
+stats: page 136 23793.436933823545 11766.644732806659 50141.768 1.662 3165.6678716331603 7611
+stats: error_send_einval 0 62
+stats: error_connect_eaddrnotavail 3984 8245
+stats: async_unknown_data_rcv 15079 65740
+stats: size_rcv 590861 3084477
+stats: size_sent 315104 1663412
+stats: connected 1812 7090
+stats: error_connect_econnreset 0 1072
+stats: error_connection_closed 0 109
+stats: websocket_succ 121 5137
+stats: error_abort_max_conn_retries 998 2045
+# stats: dump at 1589521825
+stats: users 20352 20353
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 78.28282828282829 0.0 88.72011952191235 16.594589507726347 71.37440905839222 6
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 5.078125 0.0 5.078125 1.98828125 2.78515625 6
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 9066.08984375 0.0 9585.984375 9066.08984375 9282.127604166666 6
+stats: session 266 251.1734323308269 230.9907088893899 2533.429 94.404 193.73116283618566 2045
+stats: users_count 1634 22663
+stats: finish_users_count 266 2311
+stats: request 1551 26863.702152804653 18258.621692107896 60310.676 1.662 3527.7921252097563 7747
+stats: page 1551 26863.702152804653 18258.621692107896 60310.676 1.662 3527.7921252097563 7747
+stats: connect 10547 33819.529835403715 15237.856454127035 57982.949 0.403 5760.430610687791 9843
+stats: error_send_einval 4 66
+stats: error_connect_eaddrnotavail 1122 9367
+stats: async_unknown_data_rcv 28274 94014
+stats: size_rcv 1224693 4309170
+stats: size_sent 1813568 3476980
+stats: connected 9157 16247
+stats: error_connect_econnreset 46 1118
+stats: error_connection_closed 0 109
+stats: websocket_succ 193 5330
+stats: error_abort_max_conn_retries 259 2304
+# stats: dump at 1589521835
+stats: users 21568 21576
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 81.79026924893718 0.0 88.72011952191235 16.594589507726347 72.36132609045451 7
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.8984375 0.0 6.8984375 1.98828125 3.1127232142857144 7
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 9056.83984375 0.0 9585.984375 9056.83984375 9251.265066964286 7
+stats: session 654 615.4300917431195 5232.454079999471 68137.655 87.54 200.34286499350915 2311
+stats: users_count 1870 24533
+stats: finish_users_count 654 2965
+stats: request 1847 15531.531152138617 18843.74149643712 69874.581 1.662 7420.456832974834 9298
+stats: connect 1309 1344.7535408708889 4640.247788182026 57982.949 0.403 20274.37467753815 20390
+stats: page 1847 15531.531152138617 18843.74149643712 69874.581 1.662 7420.456832974834 9298
+stats: error_send_einval 0 66
+stats: error_connect_eaddrnotavail 2912 12279
+stats: async_unknown_data_rcv 18643 112657
+stats: size_rcv 788079 5097249
+stats: size_sent 225148 3702128
+stats: connected 77 16324
+stats: error_connect_econnreset 10 1128
+stats: error_connection_closed 0 109
+stats: error_connect_etimedout 7 7
+stats: websocket_succ 615 5945
+stats: error_abort_max_conn_retries 663 2967
+# stats: dump at 1589521845
+stats: users 22702 22703
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 84.04785643070788 0.0 88.72011952191235 16.594589507726347 73.53994398526484 8
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.98828125 0.0 6.98828125 1.98828125 3.5859375 8
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8979.84375 0.0 9585.984375 8979.84375 9226.9619140625 8
+stats: session 740 562.0216175675677 4879.539676911845 68137.655 87.54 291.900047554806 2965
+stats: users_count 1874 26407
+stats: finish_users_count 740 3705
+stats: request 1545 17369.977489967634 23186.5081547455 80474.572 1.662 8764.660894661287 11145
+stats: connect 1052 993.122362167301 2330.798090976734 57982.949 0.403 19132.438456150187 21699
+stats: error_send_einval 10 76
+stats: page 1545 17369.977489967634 23186.5081547455 80474.572 1.662 8764.660894661287 11145
+stats: error_connect_eaddrnotavail 3172 15451
+stats: async_unknown_data_rcv 21714 134371
+stats: size_rcv 879948 5977197
+stats: size_sent 178536 3880664
+stats: connected -89 16235
+stats: error_connect_econnreset 32 1160
+stats: error_connection_closed 3 112
+stats: error_connect_etimedout 11 18
+stats: error_connect_econnrefused 41 41
+stats: websocket_succ 418 6363
+stats: error_abort_max_conn_retries 706 3673
+stats: error_abort_max_send_retries 1 1
+# stats: dump at 1589521855
+stats: users 23817 23833
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 81.96762141967622 0.0 88.72011952191235 16.594589507726347 74.70748981253628 9
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.84375 0.0 6.98828125 1.98828125 3.9639756944444446 9
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8912.71875 0.0 9585.984375 8912.71875 9199.504340277777 9
+stats: session 620 208.9243887096773 142.3281470628154 68137.655 87.54 345.8514542510121 3705
+stats: users_count 1735 28142
+stats: finish_users_count 620 4325
+stats: page 1633 26086.558716472766 29350.452832901887 86481.808 1.662 9812.353104255322 12690
+stats: request 1633 26086.558716472766 29350.452832901887 86481.808 1.662 9812.353104255322 12690
+stats: connect 1141 833.2112427695005 605.1489838446948 57982.949 0.403 18293.681455101003 22751
+stats: error_send_einval 1 77
+stats: error_connect_eaddrnotavail 2975 18426
+stats: async_unknown_data_rcv 20758 155129
+stats: size_rcv 856484 6833681
+stats: size_sent 196080 4076744
+stats: connected 13 16248
+stats: error_connect_econnreset 107 1267
+stats: error_connection_closed 0 112
+stats: error_connect_etimedout 3 21
+stats: error_connect_econnrefused 0 41
+stats: websocket_succ 506 6869
+stats: error_abort_max_conn_retries 620 4293
+stats: error_abort_max_send_retries 0 1
+# stats: dump at 1589521865
+stats: users 24747 24747
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 83.45771144278606 0.0 88.72011952191235 16.594589507726347 75.43350297325028 10
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.87109375 0.0 6.98828125 1.98828125 4.251953125 10
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8897.47265625 0.0 9585.984375 8897.47265625 9170.82578125 10
+stats: session 739 268.32650473613 362.13743211407603 68137.655 87.54 326.22260323699413 4325
+stats: users_count 1669 29811
+stats: finish_users_count 739 5064
+stats: request 1526 12882.258108781141 23145.788616418973 101566.201 1.662 11667.814792780848 14323
+stats: connect 982 821.4650397148675 1065.359930498231 57982.949 0.403 17459.829265570188 23892
+stats: page 1526 12882.258108781141 23145.788616418973 101566.201 1.662 11667.814792780848 14323
+stats: error_send_einval 2 79
+stats: error_connect_eaddrnotavail 3638 22064
+stats: async_unknown_data_rcv 24337 179466
+stats: size_rcv 1005796 7839477
+stats: size_sent 167356 4244100
+stats: connected 57 16305
+stats: error_connect_econnreset 172 1439
+stats: error_connection_closed 7 119
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 0 41
+stats: websocket_succ 610 7479
+stats: error_abort_max_conn_retries 759 5052
+stats: error_abort_max_send_retries 0 1
+# stats: dump at 1589521875
+stats: users 25824 25827
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 80.86696562032884 0.0 88.72011952191235 16.594589507726347 76.1629764704808 11
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.9453125 0.0 6.98828125 1.98828125 4.490056818181818 11
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8876.19921875 0.0 9585.984375 8876.19921875 9145.97549715909 11
+stats: session 691 254.972360347323 214.5326336243626 68137.655 87.54 317.7737057661927 5064
+stats: users_count 1768 31579
+stats: finish_users_count 691 5755
+stats: request 1367 29941.30778419898 36229.7085445418 102633.111 1.662 11784.7458610007 15849
+stats: connect 979 861.8223309499491 929.7171534664134 57982.949 0.403 16802.963716410828 24874
+stats: page 1367 29941.30778419898 36229.7085445418 102633.111 1.662 11784.7458610007 15849
+stats: error_send_einval 0 79
+stats: error_connect_eaddrnotavail 3069 25133
+stats: async_unknown_data_rcv 25613 205079
+stats: size_rcv 1010731 8850208
+stats: size_sent 168388 4412488
+stats: connected -99 16206
+stats: error_connect_econnreset 128 1567
+stats: error_connection_closed 0 119
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 0 41
+stats: websocket_succ 289 7768
+stats: error_abort_max_conn_retries 656 5708
+stats: error_abort_max_send_retries 0 1
+# stats: dump at 1589521885
+stats: users 26560 26583
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 81.7639751552795 0.0 88.72011952191235 16.594589507726347 76.55497556630148 12
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.3359375 0.0 6.98828125 1.98828125 4.694661458333333 12
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8860.51953125 0.0 9585.984375 8860.51953125 9123.494140624998 12
+stats: session 866 294.1703764434184 413.0201093142893 68137.655 87.54 310.23317932232834 5755
+stats: users_count 1602 33181
+stats: finish_users_count 866 6621
+stats: error_send_einval 3 82
+stats: connect 655 848.8619282442744 1204.4148366363622 57982.949 0.403 16199.305440142454 25853
+stats: error_connect_eaddrnotavail 3961 29094
+stats: async_unknown_data_rcv 25093 230172
+stats: request 1166 39483.20597598629 44544.79735052779 118760.817 1.662 13226.429187500005 17216
+stats: page 1166 39483.20597598629 44544.79735052779 118760.817 1.662 13226.429187500005 17216
+stats: size_rcv 1008330 9858538
+stats: size_sent 111112 4523600
+stats: connected -108 16098
+stats: error_connect_econnreset 250 1817
+stats: error_connection_closed 3 122
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 4 45
+stats: websocket_succ 412 8180
+stats: error_abort_max_conn_retries 903 6611
+stats: error_abort_max_send_retries 3 4
+# stats: dump at 1589521895
+stats: users 27518 27539
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 81.60555004955401 0.0 88.72011952191235 16.594589507726347 76.9556678423767 13
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 7.05859375 0.0 7.05859375 1.98828125 4.820913461538462 13
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8763.171875 0.0 9585.984375 8763.171875 9103.265324519229 13
+stats: session 435 420.1626137931037 607.1646875590079 68137.655 87.54 308.1322297236067 6621
+stats: users_count 1393 34574
+stats: finish_users_count 435 7056
+stats: request 1161 36932.80464341077 43961.79454102188 128621.312 1.662 14891.939019693182 18382
+stats: connect 775 1306.557926451613 931.606708578264 57982.949 0.403 15820.003323789155 26508
+stats: page 1161 36932.80464341077 43961.79454102188 128621.312 1.662 14891.939019693182 18382
+stats: error_send_einval 2 84
+stats: error_connect_eaddrnotavail 2035 31129
+stats: async_unknown_data_rcv 26344 256516
+stats: size_rcv 1030505 10889043
+stats: size_sent 132956 4656556
+stats: connected -166 15932
+stats: error_connect_econnreset 27 1844
+stats: error_connection_closed 0 122
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 0 45
+stats: websocket_succ 221 8401
+stats: error_abort_max_conn_retries 434 7045
+stats: error_abort_max_send_retries 0 4
+# stats: dump at 1589521905
+stats: users 28555 28557
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 82.47140726006961 0.0 88.72011952191235 16.594589507726347 77.2878022857465 14
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 7.6484375 0.0 7.6484375 1.98828125 4.980747767857143 14
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8741.79296875 0.0 9585.984375 8741.79296875 9078.972935267855 14
+stats: session 520 449.408746153846 1096.3308603809207 68137.655 87.54 315.03886479591836 7056
+stats: users_count 1557 36131
+stats: finish_users_count 520 7576
+stats: request 1134 45267.882850088165 56205.81502951451 135538.187 1.662 16201.330872998004 19543
+stats: connect 658 1694.7387857142858 2135.8388505475823 57982.949 0.403 15407.73487153183 27283
+stats: page 1134 45267.882850088165 56205.81502951451 135538.187 1.662 16201.330872998004 19543
+stats: error_send_einval 6 90
+stats: error_connect_eaddrnotavail 2350 33479
+stats: async_unknown_data_rcv 26936 283452
+stats: size_rcv 1036177 11925220
+stats: size_sent 112144 4768700
+stats: connected -379 15553
+stats: error_connect_econnreset 92 1936
+stats: error_connection_closed 0 122
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 0 45
+stats: websocket_succ 97 8498
+stats: error_abort_max_conn_retries 504 7549
+stats: error_abort_max_send_retries 0 4
+# stats: dump at 1589521915
+stats: users 28905 28905
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 80.26739291903937 0.0 88.72011952191235 16.594589507726347 77.63337595070136 15
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 7.41015625 0.0 7.6484375 1.98828125 5.15859375 15
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8720.16796875 0.0 9585.984375 8720.16796875 9056.494270833331 15
+stats: session 926 1571.5691382289406 3655.0505075447504 68137.655 87.54 324.26171832101375 7576
+stats: users_count 1276 37407
+stats: finish_users_count 926 8502
+stats: page 799 42732.21053692112 59458.82126705736 150655.819 1.662 17795.443652512455 20677
+stats: request 799 42732.21053692112 59458.82126705736 150655.819 1.662 17795.443652512455 20677
+stats: connect 632 3618.4043053797513 4711.087050480295 57982.949 0.403 15084.798991482156 27941
+stats: error_send_einval 9 99
+stats: error_connect_eaddrnotavail 3782 37261
+stats: async_unknown_data_rcv 34113 317565
+stats: size_rcv 1344137 13269357
+stats: size_sent 106812 4875512
+stats: connected 183 15736
+stats: error_connect_econnreset 374 2310
+stats: error_connection_closed 0 122
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 0 45
+stats: websocket_succ 361 8859
+stats: error_abort_max_conn_retries 947 8496
+stats: error_abort_max_send_retries 2 6
+# stats: dump at 1589521925
+stats: users 30142 30155
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 81.19254658385093 0.0 88.72011952191235 16.594589507726347 77.7980020112225 16
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.9453125 0.0 7.6484375 1.98828125 5.29931640625 16
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8698.8671875 0.0 9585.984375 8698.8671875 9035.473876953123 16
+stats: session 698 200.03257593123195 66.75496557037192 68137.655 87.54 460.1128910844506 8502
+stats: users_count 1935 39342
+stats: finish_users_count 698 9200
+stats: request 1354 41151.959310191996 58572.88305942923 150655.819 1.662 18723.19913494133 21476
+stats: connect 1372 3395.325393586008 7090.634805463904 57982.949 0.403 14831.176290274138 28573
+stats: page 1354 41151.959310191996 58572.88305942923 150655.819 1.662 18723.19913494133 21476
+stats: error_send_einval 2 101
+stats: error_connect_eaddrnotavail 3057 40318
+stats: async_unknown_data_rcv 27108 344673
+stats: size_rcv 1055391 14324748
+stats: size_sent 235640 5111152
+stats: connected 213 15949
+stats: error_connect_econnreset 39 2349
+stats: error_connection_closed 0 122
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 0 45
+stats: websocket_succ 197 9056
+stats: error_abort_max_conn_retries 706 9202
+stats: error_abort_max_send_retries 0 6
+# stats: dump at 1589521935
+stats: users 31164 31183
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 80.1658941205172 0.0 88.72011952191235 16.594589507726347 77.99768110373006 17
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.5703125 0.0 7.6484375 1.98828125 5.396139705882353 17
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8664.68359375 0.0 9585.984375 8664.68359375 9015.673483455881 17
+stats: session 525 399.539982857143 1529.6901986158184 68137.655 87.54 440.3807106521738 9200
+stats: users_count 1547 40889
+stats: finish_users_count 525 9725
+stats: request 1108 35878.084651624486 58126.82219572093 166529.412 1.662 20053.40243223828 22830
+stats: connect 541 2236.3687282809583 4979.220548642724 57982.949 0.403 14307.216115612053 29945
+stats: page 1108 35878.084651624486 58126.82219572093 166529.412 1.662 20053.40243223828 22830
+stats: error_send_einval 0 101
+stats: error_connect_eaddrnotavail 2393 42711
+stats: async_unknown_data_rcv 26193 370866
+stats: size_rcv 1007440 15332188
+stats: size_sent 93052 5204204
+stats: connected -473 15476
+stats: error_connect_econnreset 225 2574
+stats: error_connection_closed 0 122
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 0 45
+stats: websocket_succ 94 9150
+stats: error_abort_max_conn_retries 497 9699
+stats: error_abort_max_send_retries 0 6
+# stats: dump at 1589521945
+stats: users 32042 32052
+stats: {cpu,"tsung_controller@ajays-MacBook-Pro"} 1 81.75742574257426 0.0 88.72011952191235 16.594589507726347 78.11813738244045 18
+stats: {load,"tsung_controller@ajays-MacBook-Pro"} 1 6.25 0.0 7.6484375 1.98828125 5.461371527777778 18
+stats: {freemem,"tsung_controller@ajays-MacBook-Pro"} 1 8627.83984375 0.0 9585.984375 8627.83984375 8996.174045138887 18
+stats: session 610 1115.3203147540992 5604.81560488616 68137.655 87.54 438.17594128534694 9725
+stats: users_count 1488 42377
+stats: finish_users_count 610 10335
+stats: request 1046 6145.03660325048 8184.535108252141 166529.412 1.662 20785.86746269529 23938
+stats: connect 1148 3200.927230836233 6674.127836308784 57982.949 0.403 14093.008661812075 30486
+stats: page 1046 6145.03660325048 8184.535108252141 166529.412 1.662 20785.86746269529 23938
+stats: error_send_einval 12 113
+stats: error_connect_eaddrnotavail 2636 45347
+stats: async_unknown_data_rcv 31927 402793
+stats: size_rcv 1234246 16566434
+stats: size_sent 194532 5398736
+stats: connected 241 15717
+stats: error_connect_econnreset 286 2860
+stats: error_connection_closed 3 125
+stats: error_connect_etimedout 0 21
+stats: error_connect_econnrefused 0 45
+stats: websocket_succ 156 9306
+stats: error_abort_max_conn_retries 603 10302
+stats: error_abort_max_send_retries 2 8
