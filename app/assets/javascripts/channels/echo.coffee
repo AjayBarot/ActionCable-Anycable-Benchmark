@@ -1,5 +1,6 @@
 App.echo = App.cable.subscriptions.create "EchoChannel",
   connected: ->
+  	console.log 'Welcome to websocket client side'
     # Called when the subscription is ready for use on the server
 
   disconnected: ->

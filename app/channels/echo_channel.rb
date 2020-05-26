@@ -1,6 +1,6 @@
 class EchoChannel < ApplicationCable::Channel
   def subscribed
-    stream_from 'echo'
+    stream_from 'echo_channel'
   end
 
   def unsubscribed
